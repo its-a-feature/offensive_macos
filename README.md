@@ -14,17 +14,25 @@ This is a collection of macOS specific tooling, blogs, and other related informa
 
 ### C2 Frameworks/Agents
 * https://github.com/mishmashclone/BC-SECURITY-Empire
+  * latest branch of the Empire framework with a Python-based payload for macOS
 * https://github.com/cedowens/MacShellSwift
 * https://github.com/cedowens/MacShell
 * https://github.com/its-a-feature/Mythic/tree/master/Payload_Types/apfell/agent_code
+  * JXA agent for the Mythic framework
+* https://github.com/its-a-feature/Mythic/tree/master/Payload_Types/poseidon/agent_code
+  * Golang agent for the Mythic framework that uses a lot of CGO with macOS API calls
 * https://github.com/Marten4n6/EvilOSX
 * https://github.com/neoneggplant/EggShell
 
 ### Binaries
 * https://github.com/cedowens/SwiftBelt
+  * Swift tool for doing safety checks on a macOS host for red teaming
 * https://github.com/xorrior/xpcutil
+  * Tool for sending XPC messages to launchd
 * https://github.com/Tyilo/insert_dylib
+  * Tool for injecting dylib weak/strong headers into a Mach-O binary
 * https://github.com/its-a-feature/bifrost
+  * Tool for interacting with Kerberos on macOS
 
 ### Other
 * https://github.com/cedowens/Mythic-Macro-Generator
