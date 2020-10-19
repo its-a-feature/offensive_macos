@@ -28,10 +28,17 @@ This is a collection of macOS specific tooling, blogs, and other related informa
 
 ### Other
 * https://github.com/cedowens/Mythic-Macro-Generator
+  * tool to generate Microsoft Office Macros for running Mythic's apfell payload
 * https://github.com/cedowens/macOS-browserhist-parser
+  * tool for parsing macOS browser history on disk
 * https://github.com/xorrior/macOSTools
+  * repo of a lot of macOS tooling
 * https://github.com/its-a-feature/macos_execute_from_memory
+  * starter code to run macos code from memory
 * https://github.com/herrbischoff/awesome-macos-command-line
+  * Lots of commandline based actions that aren't necessarily offensive, but can be pretty handy
+* http://newosxbook.com/ent.jl
+  * Web resource of entitlements for macOS binaries
 
 ## Blogs
 * https://www.mdsec.co.uk/2018/08/escaping-the-sandbox-microsoft-office-on-macos/
