@@ -1,6 +1,8 @@
 # Offensive MacOS
 This is a collection of macOS specific tooling, blogs, and other related information for offensive macOS assessments.
 
+If you find something that's not on here, open an issue or a merge request and we can get it added.
+
 ## Tools
 
 ### JavaScript for Automation (JXA)
