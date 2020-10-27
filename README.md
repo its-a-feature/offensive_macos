@@ -51,6 +51,8 @@ If you find something that's not on here, open an issue or a merge request and w
   * Web resource of entitlements for macOS binaries
 
 ## Blogs
+* https://theevilbit.github.io/posts/getting_started_in_macos_security/
+  * Great intro blog that calls out a bunch of awesome resources
 * https://www.mdsec.co.uk/2018/08/escaping-the-sandbox-microsoft-office-on-macos/
 * https://wojciechregula.blog/post/learn-xpc-exploitation-part-3-code-injections/
 * https://wojciechregula.blog/post/abusing-electron-apps-to-bypass-macos-security-controls/
