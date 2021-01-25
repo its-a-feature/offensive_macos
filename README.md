@@ -13,6 +13,7 @@ If you find something that's not on here, open an issue or a merge request and w
 * https://github.com/its-a-feature/Orchard
 * https://github.com/its-a-feature/HealthInspector
 * https://github.com/FSecureLABS/CalendarPersist
+* https://github.com/cedowens/JXA-RemoveQuarantine
 
 ### C2 Frameworks/Agents
 * https://github.com/mishmashclone/BC-SECURITY-Empire
