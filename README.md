@@ -13,6 +13,7 @@ If you find something that's not on here, open an issue or a merge request and w
 * https://github.com/its-a-feature/Orchard
 * https://github.com/its-a-feature/HealthInspector
 * https://github.com/FSecureLABS/CalendarPersist
+* https://github.com/cedowens/JXA-RemoveQuarantine
 
 ### C2 Frameworks/Agents
 * https://github.com/mishmashclone/BC-SECURITY-Empire
@@ -49,6 +50,8 @@ If you find something that's not on here, open an issue or a merge request and w
   * Lots of commandline based actions that aren't necessarily offensive, but can be pretty handy
 * http://newosxbook.com/ent.jl
   * Web resource of entitlements for macOS binaries
+* https://github.com/ahhh/macOS_profiles
+  * Collection of macOS configuration profiles for penetration testing and red teaming
 
 ## Blogs
 * https://theevilbit.github.io/posts/getting_started_in_macos_security/
